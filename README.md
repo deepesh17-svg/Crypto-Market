@@ -1,5 +1,5 @@
-# TradesOfCrypto
-Trades of Crypto is a WebApp which can be used to Track All the Crypto's Current price, Volumes Trading , Market Cap and Change in price(in terms of percent) in INR.
+# Crpto Market
+Crypto Market is a WebApp which can be used to Track All the Crypto's Current price, Volumes Trading , Market Cap and Change in price(in terms of percent) in INR.
 User can search for any crypto coin and the live information will be displayed. Real time data of each coin is updated !
 
 
